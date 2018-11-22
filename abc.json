@@ -1,0 +1,20 @@
+{
+  a: {
+    template: './src/modules/a/index.html',
+    entry: './src/modules/a/main.js',
+    filename: 'index.html',
+    title: '映入'
+  },
+  login: {
+    template: './src/modules/login/index.html',
+    entry: './src/modules/login/main.js',
+    filename: 'index.html',
+    title: '登陆'
+  },
+  test: {
+    template: './src/modules/test/index.html',
+    entry: './src/modules/test/main.js',
+    filename: 'index.html',
+    title: '测试'
+  }
+}
